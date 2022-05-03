@@ -1,4 +1,4 @@
-# Practica-TS-Samsung-Alba
+# Practica-TS-SamsungDesarrolladoras
 Práctica del módulo de Typescript del curso "Desarrollo Full-stack" del programa Samsung Desarrolladoras, ed. 2021.
 
 # Enunciado del ejercicio 
