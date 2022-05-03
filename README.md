@@ -7,7 +7,7 @@ Se propone realizar unas clases para almacenar la lógica de una agenda con los 
 Cada clase ha de crearse en un archivo TypeScript diferente.
 
 » Parte 2:
-Se valorará la correcta selección de tipos y la definición de funciones necesariaspara acceso a los atributos.
+Se valorará la correcta selección de tipos y la definición de funciones necesarias para acceso a los atributos.
 Una vez realizadas las clases:
   Se creará un módulo principal (main) en el que se utilicen las clases definidas
   para crear 3 registros de persona y mostrarlos en el terminal mediante console.log., 
