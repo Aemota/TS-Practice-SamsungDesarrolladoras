@@ -1,7 +1,7 @@
 # Practica-TS-SamsungDesarrolladoras
 Práctica del módulo de Typescript del curso "Desarrollo Full-stack" del programa Samsung Desarrolladoras, ed. 2021.
 
-# Enunciado del ejercicio 
+# Enunciado 
 » Parte 1: 
 Se propone realizar unas clases para almacenar la lógica de una agenda con los datos personales de los individuos: direcciones, teléfonos, mails… 
 Cada clase ha de crearse en un archivo TypeScript diferente.
